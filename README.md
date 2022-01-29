@@ -2,7 +2,7 @@
 
 <h4>About me :vulcan_salute:</h4>
 
-- I'm a second year Information Science undergrad with a passion for full stack development.  
+- I'm a third year Information Science undergrad with a passion for full stack development.  
 - I am an experienced developer skilled in Full Stack Development, MERN, and Firebase.  
 - I'm curently working on a mobile app with flutter (private repo).  
 - You can reach me at the email in my bio.
